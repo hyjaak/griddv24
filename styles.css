@@ -632,6 +632,14 @@ p{ margin: 0; }
   transition: color .3s var(--ease), background .3s var(--ease);
 }
 .sec-tag-grid span:hover{ color: var(--white); background: var(--graphite-3); }
+.sec-panel-note{
+  margin-top: 14px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--dimmer);
+  line-height: 1.6;
+}
 
 /* ==========================================================================
    CLIENT SUCCESS
